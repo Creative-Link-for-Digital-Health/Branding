@@ -1,6 +1,6 @@
 # Branding Guide for Creative Link for Advancing Digital Health
 
-Most of the website branding must follow University of Kentucky Branding Guidelines.
+Most of the branding must follow [University of Kentucky Brand Guidelines](https://brand.uky.edu/sites/default/files/2023-05/UKY-2023-Brand-Guidelines.pdf). Useful assets located [here](https://www.uky.edu/prmarketing/branding-resources).
 
 
 [Sugo Pro Display ExtraLight Fonts](https://www.onlinewebfonts.com/download/390b763b2aa93629ea29fb0f2a8636f9)
